@@ -46,6 +46,12 @@ const customers = [
     email: 'balazs@orban.com',
     image_url: '/customers/balazs-orban.png',
   },
+  {
+    id: '13D07535-C59E-4157-A011-F8D2EF4E0BBB',
+    name: 'Bryan Guenther',
+    email: 'bguenther3@gmail.com',
+    image_url: '/customers/balazs-orban.png',
+  },
 ];
 
 const invoices = [
